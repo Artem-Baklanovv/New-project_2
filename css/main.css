@@ -105,8 +105,8 @@ video.frame-media_left {
     font-size: calc(var(--index) * 3);
 }
 .frame p {
-    /*max-width: calc(var(--index) * 21);*/ /*тест для ширины текста*/ 
-    max-width: 40vw;
+    max-width: calc(var(--index) * 21); /*тест для ширины текста*/ 
+    /*max-width: 30vw;*/
     margin-top: 3vh;
 }
 .soundbutton {
